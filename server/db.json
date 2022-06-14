@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "I Like star wars",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "theres nothing",
+      "id": 2
+    },
+    {
+      "title": "Checked Redux Form",
+      "description": "Testing edit form with Patch",
+      "userId": "104181886229334492135",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Navigating from action creator",
+      "userId": "104181886229334492135",
+      "id": 4
+    },
+    {
+      "title": "Test",
+      "description": "testing stream",
+      "userId": null,
+      "id": 5
+    }
+  ]
+}
